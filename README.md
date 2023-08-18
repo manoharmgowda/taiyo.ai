@@ -27,17 +27,9 @@ Properly commented code.
 
 ## Run Project
 ### first clone the project 
-git clone git remote add origin https://github.com/manoharmgowda/taiyo.ai-task.git
+git clone git remote add origin https://github.com/manoharmgowda/taiyo.ai.git
 ### install packages
     npm install
 ### run project
    npm run dev
-
-
-## Deployed Link 
-   https://taiyo-ai.netlify.app/
-   
-## Screen Shot
-![pic1](https://user-images.githubusercontent.com/108975934/232099597-075f2385-4208-495c-81d7-0c6298e33896.png)
-![pic2](https://user-images.githubusercontent.com/108975934/232099601-97bd02b1-4492-46a9-b5a0-f1dc68b1f81c.png)
    
