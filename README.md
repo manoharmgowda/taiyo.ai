@@ -1,4 +1,4 @@
-# taiyo.ai-task
+# taiyo.ai
 Created a contact management app with Charts and Maps using ReactJS, TypeScript, TailwindCSS,json-server, React Router v6 and redux-thunk
 
 ## used below APIendpoint used..
